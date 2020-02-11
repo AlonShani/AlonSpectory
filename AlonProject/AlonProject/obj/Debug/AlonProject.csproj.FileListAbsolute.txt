@@ -1,0 +1,7 @@
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\obj\Debug\AlonProject.csprojAssemblyReference.cache
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\obj\Debug\AlonProject.csproj.CoreCompileInputs.cache
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\bin\Debug\AlonProject.exe.config
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\bin\Debug\AlonProject.exe
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\bin\Debug\AlonProject.pdb
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\obj\Debug\AlonProject.exe
+C:\Users\Alon Shani\source\repos\AlonProject\AlonProject\obj\Debug\AlonProject.pdb
